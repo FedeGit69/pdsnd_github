@@ -4,14 +4,13 @@
 2023/07/06
 
 ### Project Title
-Replace the Project Title
+Bike Share US business
 
 ### Description
-Describe what your project is about and what it does
+This project aim to bring efficiency for the bike renting business for 3 US cities washington/NewYork/ Chicago
 
 ### Files used
-Include the files used
+3 cities database sources (ignored ) and the python code that determine the model
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### CreditsI thnak you Udacity to make me learn with fun !!!
 
