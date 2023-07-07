@@ -12,5 +12,6 @@ This project aim to bring efficiency for the bike renting business for 3 US citi
 ### Files used
 3 cities database sources (ignored ) and the python code that determine the model
 
-### CreditsI thnak you Udacity to make me learn with fun !!!
+### Credits I thank you Udacity to make me learn with fun !!! 
+PS I'm at home I cannot push due to certificate issue, so I commit it directly into the fork.
 
